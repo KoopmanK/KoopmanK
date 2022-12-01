@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KoopmanK
-- 👀 I’m interested in neurology, neuropathology and deep learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in image analysis and deep learning
+- 🌱 I’m currently learning VIM and Kivy
 - 📫 How to reach me: kirstenkoopman@me.com
 
 <!---
