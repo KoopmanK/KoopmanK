@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoopmanK
-- 👀 I’m interested in image analysis and deep learning
-- 🌱 I’m currently learning VIM and Kivy
+- 👀 I’m interested in image analysis and data engineering
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: kirstenkoopman@me.com
 
 <!---
